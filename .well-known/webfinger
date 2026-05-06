@@ -3,7 +3,7 @@
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://integrator-1057079-admin.okta.com"
+      "href": "https://integrator-1057079.okta.com"
     }
   ]
 }
